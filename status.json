@@ -1,11 +1,8 @@
 {
-  "active": true,
-  "root": "nextup_supabase",
-  "roots": [
-    "nextup_supabase"
-  ],
-  "since": "2026-10-30T04:25:05",
-  "message": "Outage detected: Next Up database (Supabase bhxncbewdxlqqsufwhwe). This is not you - contact Brandon.",
-  "checked_at": "2026-10-30T04:27:05",
-  "checked_at_utc": "2026-10-30T10:27:27+00:00"
+  "active": false,
+  "root": null,
+  "since": null,
+  "message": "",
+  "checked_at": "2026-10-30T10:55:05",
+  "checked_at_utc": "2026-10-30T16:55:08+00:00"
 }
